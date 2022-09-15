@@ -7,9 +7,8 @@ author: Surjith S M
 date: 2020-09-01
 other: T﻿his is some code here
 tags:
-  - left
-  - center
-  - right
+  - created
+  - config.yml
 ---
 # This is a Heading h1
 
